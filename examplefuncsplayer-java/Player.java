@@ -1,6 +1,6 @@
 // import the API.
 // See xxx for the javadocs.
-// my name jeff
+// my name not jeff
 import bc.*;
 
 public class Player {
